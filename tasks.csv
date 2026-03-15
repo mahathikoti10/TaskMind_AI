@@ -1,0 +1,5 @@
+task,required_ml,required_backend
+Train ML Model,8,4
+Build API,3,8
+Data Analysis,7,5
+Deploy Model,6,7
